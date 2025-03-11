@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7abb707d64bc4f73af3a7cf96cbef47a/artifacts
+deleted_time: 1741681187183
+end_time: 1741681027920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7abb707d64bc4f73af3a7cf96cbef47a
+run_name: burly-asp-387
+run_uuid: 7abb707d64bc4f73af3a7cf96cbef47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741681027315
+status: 4
+tags: []
+user_id: HP

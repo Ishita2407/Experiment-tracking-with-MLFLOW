@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4f8df8e91a54902a2609e35c819aaa0/artifacts
+end_time: 1741679457405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4f8df8e91a54902a2609e35c819aaa0
+run_name: chill-dolphin-28
+run_uuid: c4f8df8e91a54902a2609e35c819aaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741679457334
+status: 3
+tags: []
+user_id: HP

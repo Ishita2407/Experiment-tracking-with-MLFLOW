@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/653053581153695550/df5cb67fe59f4637bb79f5098779ef95/artifacts
+end_time: 1741691833181
+entry_point_name: ''
+experiment_id: '653053581153695550'
+lifecycle_stage: active
+run_id: df5cb67fe59f4637bb79f5098779ef95
+run_name: nimble-horse-103
+run_uuid: df5cb67fe59f4637bb79f5098779ef95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741691824428
+status: 3
+tags: []
+user_id: HP

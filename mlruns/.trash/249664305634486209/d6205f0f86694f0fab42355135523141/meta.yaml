@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/HP/Desktop/MLOPS/Experiment-tracking-with-MLFLOW/mlruns/249664305634486209/d6205f0f86694f0fab42355135523141/artifacts
+deleted_time: 1741679253664
+end_time: 1741679180102
+entry_point_name: ''
+experiment_id: '249664305634486209'
+lifecycle_stage: deleted
+run_id: d6205f0f86694f0fab42355135523141
+run_name: victorious-cat-845
+run_uuid: d6205f0f86694f0fab42355135523141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741679161215
+status: 3
+tags: []
+user_id: HP
